@@ -1,6 +1,6 @@
 # FinTech-Domain---ADDEPAR
 
-![Addepar][https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwirjZv8ubXkAhUMhuAKHdQCBxUQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faddepar&psig=AOvVaw0rDLwdJGKnyUUzkd-51St1&ust=1567627566003991]
+![Addepar](https://github.com/H-chen19/FinTech-Domain---ADDEPAR/blob/master/Addepar_Logo.png)
 
 
 "One Platform, One Language, All of your assets"
