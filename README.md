@@ -1,6 +1,7 @@
 # FinTech-Domain---ADDEPAR
 
-insert Image
+![Addepar][https://github.com/H-chen19/FinTech-Domain---ADDEPAR/blob/master/Addepar_Logo.png/Addepar_Logo.png]
+
 
 "One Platform, One Language, All of your assets"
 
@@ -26,17 +27,54 @@ The company's intended customer are family offices, wealth advisors, and private
 
 As above mention, one competitive advantage of Addepar is aggregating and analyzing any asset class from any custodian in a private and secure way. Addepar can knit together some of the underlying bits of technology like CRMs and financial planning tools while others cannot, and it approach of reaching the end user differs the firm from others. Addepar has an experience portal and mobile app that each firm that licenses the platform can curate and creat their own views. This way boost trust and customers' experience of our clients' clients. However, the price for Addepar is significantly higher than other tech platforms, but what the clients are getitng is everything in one. 
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Because of the very high level of engagement these technology platforms have with their users, they often have a tremendous customer acquisition cost advantage relative to other firms.
+
+Addepar adapted various technologies, libraries, or languages to create its financial platform. 
+* The firm uses Amazon Web Services features into its system architecture as a Service solutions; features like software-defined networking and elastic scaling of resources are being used. 
+* For simplicity and to enable developer productivity, the most recent version of Java is used to develop all of Addepar's services. 
+* Also, utilizing Facebook's Buck build tool for incremental builds, TestNG support with test result caching, 3rd party dependency management, and native Python support. 
+* Python is the primary scripting language for solving lightweight problems, often related to automation of build and test infractructure, ad-hoc data normalization, performance testing, and API development. Python is also used for configuration management and currently leveraging the Salt ecosystem.
+* It relies on HashiCorp's Vault infractructure for security configuration settings as passwords, API Keys, and SSL certificates.
+* The firm stores the data in the original form as received and the transformed form produced by the firm's data processig pipeline in MongoDB.
+* Data is in MySQL as a finalized form. 
+* It utilizes NGINX for load balancing, fault tolerance, and zero downtime deployments.
+* Using Zookeeper, a highly reliable distributed cooordination server, for its built-in Kafka's coordination power for persistent message queues, data replication, and fault tolerance; also for its Zookeeper's Curator library to solve advanced problems like distributed locks and service naming.
+* At the frontend, the web application is built using EmberJS and JavaScript.
+
 
 ## Landscape:
 
-Addepar is in the Investment Management domain in managing buys and sells of assets in investment porfolios. 
+Addepar belongs to Investment Management domain in managing buys and sells of assets in investment porfolios. 
+
+The FinTech is rapidly shaping investment management industry. First, a vast majority of investment managers view the impact of FinTech as the need to adapt to changing customer needs. Customers, especially millenials, significantly demand different experiences and see improvements what have done in the past. Firms have been focusing on data analytics and automation, typically associated with robo-advisors, to improve customers' satisfaction.
+
+The revolution of digital financing is dirupting all financial institutions but at the same time providing new venues for growth and revenue. Mobile app is the faster place for the businesses to build new channels. Nowadays, consumers constantly demand to have the digital experience that integrate technology with personal relationship in order to save time and unnecessary expenses. This comes in digital assistants that involves advanced AI technologies for voice recognition. Virtual assistants are replacing humans in bank call centers responding questions regarding fees, products, technical issues, and so on. Integrating chatbots into the customer service systems increase clients' loyalty, reduce the processing time, and cut administrative costs. 
+
+Major competitors in this Domain are:
+* Enfusion
+* Morningstar
+* Carta
+* Investment Account Manager
+* Interative Investor
+* Black Diamond
+* Orion 
+
+## Results
+
+The business impacts of Addepar is far beyond imagination. It is for sure disrupting the traditional ways to manage investment porfolios but also creating values for clients by providing a clearer financial picture to asset owners and advisors at every level, all in one place. With customizable reporting, financial advisors can visualize and communicate relevant information to parties in need through a secure, scalable, and fast financial platform. It has replacing traditional data storage software like Excel and access, and accounting software like QuickBooks and ERPNext. 
+
+ Successes:
+
+ One way to measure success for is to see the value of assets on the company's platform. Addepar manages data for over $1.3 trillion of assets on its platform compared to its main competitor, Orion's $1 trillion. 
+ Another way of measurement will be if the firm has extra cash to reinvest in its software that simbolizes liquidity, and Addepar certainly does. It will soon imprement enterprise SaaS and compromise higher touch experiences though technological transformation.
+
+ In addition, Addepar has partnered with other tech and services providers such as Salesforce Financial Services Cloud, FolioDynamix, iCapital Network, Citco Fund Services, RedBlack Software, Blaze Porfolio, Quovo, Morningstar, BaySys Technologies, and Morgan Stanley. Morgan Stanley awarded Addepar for recognition of a FinTech company that has had a significant impact on Morgan Stanley's mission to continously innovate for its clients and business in 2017. 
+
+## Recommendations 
+
+I would suggest to implement Blockchain technology to transform the asset management value chain to obtain competitive advantage for early adoptation. Investment management leaders should position themselves for the future where blockchain and smart contracts will become the most convenient and secure way for acquiring financial instruments while tightening the process and mitigating some of the risk. 
+
+How great thing will be if Investment management firms have a shared ledge system where tracking assets in serialization and making operation seemless. It will provide full end-to-end visibility that can avoid any discrepancies and potential risks on a timely manner. 
 
 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-
-* What are the other major companies in this domain?
-
-
-Added another line to README.md
