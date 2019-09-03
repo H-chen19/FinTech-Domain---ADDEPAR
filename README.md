@@ -3,7 +3,8 @@
 ![addepar_Logo](https://media.licdn.com/dms/image/C560BAQGg-3VBhEIbRQ/company-logo_200_200/0?e=2159024400&v=beta&t=MfCV91HqtKbnrxsGKlNM9B8vUiVD8DCmKr0bL8RwQvo)
 
 
-"One Platform, One Language, All of your assets"
+##### **_"One Platform, One Language, All of your assets"_**
+
 
 ## Overview and Origin: 
 
@@ -12,6 +13,7 @@ Addepar, Inc is a privately held investment management cloud-based technology co
 Antonio Garcia, a member of Addepar's Board of Directors, once said, "The idea of a common language and a truly data platform for the financial services would is something Wall Street 10 years ago could never have imagined." The idea behind the launch of Addepar is to transform financial services. Much of the the technology infrastructure that Wall Street was using was built 20 to 40 years ago and required a large amount of money for maintainance; hence, it was not efficient and effective enough to store, process, and analyze big datasets after the financial crisis. Creating a much more modern platform and using that platform to power the global financial system was the main driver. 
 
 Addepar has raised $240 million from a Secondary Market funding round from investors such as 8VC, Valor Equity Partners, Capital Factory, Craft Ventures, Haitao Capital and Harald McPike. With the new capital, the firm will continue investing significantly in expanding its product, platform and tech-enabled services, and R&D. 
+
 
 ## Business Activities:
 
@@ -41,6 +43,8 @@ Addepar adapted various technologies, libraries, or languages to create its fina
 * Using Zookeeper, a highly reliable distributed cooordination server, for its built-in Kafka's coordination power for persistent message queues, data replication, and fault tolerance; also for its Zookeeper's Curator library to solve advanced problems like distributed locks and service naming.
 * At the frontend, the web application is built using EmberJS and JavaScript.
 
+![Addepar_Tech](https://miro.medium.com/max/10418/1*dgxNx0extJkFg1_5z3CFCA.png)
+
 
 ## Landscape:
 
@@ -50,7 +54,7 @@ The FinTech is rapidly shaping investment management industry. First, a vast maj
 
 The revolution of digital financing is dirupting all financial institutions but at the same time providing new venues for growth and revenue. Mobile app is the faster place for the businesses to build new channels. Nowadays, consumers constantly demand to have the digital experience that integrate technology with personal relationship in order to save time and unnecessary expenses. This comes in digital assistants that involves advanced AI technologies for voice recognition. Virtual assistants are replacing humans in bank call centers responding questions regarding fees, products, technical issues, and so on. Integrating chatbots into the customer service systems increase clients' loyalty, reduce the processing time, and cut administrative costs. 
 
-Major competitors in this Domain are:
+##### Major competitors in this Domain are:
 * Enfusion
 * Morningstar
 * Carta
@@ -59,22 +63,44 @@ Major competitors in this Domain are:
 * Black Diamond
 * Orion 
 
-## Results
+
+## Results:
 
 The business impacts of Addepar is far beyond imagination. It is for sure disrupting the traditional ways to manage investment porfolios but also creating values for clients by providing a clearer financial picture to asset owners and advisors at every level, all in one place. With customizable reporting, financial advisors can visualize and communicate relevant information to parties in need through a secure, scalable, and fast financial platform. It has replacing traditional data storage software like Excel and access, and accounting software like QuickBooks and ERPNext. 
 
- Successes:
+ ##### Successes:
 
  One way to measure success for is to see the value of assets on the company's platform. Addepar manages data for over $1.3 trillion of assets on its platform compared to its main competitor, Orion's $1 trillion. 
  Another way of measurement will be if the firm has extra cash to reinvest in its software that simbolizes liquidity, and Addepar certainly does. It will soon imprement enterprise SaaS and compromise higher touch experiences though technological transformation.
 
  In addition, Addepar has partnered with other tech and services providers such as Salesforce Financial Services Cloud, FolioDynamix, iCapital Network, Citco Fund Services, RedBlack Software, Blaze Porfolio, Quovo, Morningstar, BaySys Technologies, and Morgan Stanley. Morgan Stanley awarded Addepar for recognition of a FinTech company that has had a significant impact on Morgan Stanley's mission to continously innovate for its clients and business in 2017. 
 
-## Recommendations 
+
+## Recommendations: 
 
 I would suggest to implement Blockchain technology to transform the asset management value chain to obtain competitive advantage for early adoptation. Investment management leaders should position themselves for the future where blockchain and smart contracts will become the most convenient and secure way for acquiring financial instruments while tightening the process and mitigating some of the risk. 
 
 How great thing will be if Investment management firms have a shared ledge system where tracking assets in serialization and making operation seemless. It will provide full end-to-end visibility that can avoid any discrepancies and potential risks on a timely manner. 
 
+
+## Resources:
+
+[Addepar_website](https://addepar.com/)
+
+[Morgan_Stanley_FinTechAward](https://addepar.com/news/addepar-recognized-by-morgan-stanley-with-fintech-award-at-firms-annual-fintech-summit/)
+
+[Podcasts](https://tearsheet.co/future-of-investing/how-addepar-built-an-ecosystem-around-the-ultra-high-net-worth-investment-community-with-ceo-eric-poirier/)
+
+[Funding_Information](https://www.forbes.com/fintech/2019/#29b154c62b4c)
+
+[Addepar_Technology](https://medium.com/build-addepar/our-tech-stack-a4f55dab4b0d)
+
+[Future_of_FinTech](https://justcoded.com/blog/the-future-of-finance-10-fintech-trends-for-2019-you-need-to-know/)
+
+[FinTech_And_Wealth_Management](https://www.pwc.com/gx/en/industries/financial-services/publications/how-fintech-is-shaping-asset-and-wealth-management.html)
+
+[Blockchain_And_Investment_Management](https://www2.deloitte.com/us/en/pages/financial-services/articles/im-firms-getting-started-blockchain.html)
+
+[Competitors](https://riabiz.com/a/2018/3/5/orion-gets-serious-about-addepars-threat-to-its-biggest-clients)
 
 
